@@ -1,0 +1,8 @@
+{
+  "name": "TeamSpeakSpeech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Snazzah",
+  "description": "Use TeamSpeak-eqsue speech notifications.",
+  "license": "MIT"
+}
